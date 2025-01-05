@@ -35,6 +35,6 @@ Please navigate through individual folder to find project journal for each perso
 
 # Project Presentation
 
-The project video presentation will be upload on OneDrive post completion.
+The project video presentation is available on OneDrive. You can access it from [here](https://studentncirl-my.sharepoint.com/:v:/g/personal/x23235438_student_ncirl_ie/EeHYeh7YswRLoDgKnT7Le0oB5MAl9XlsNggIkAjNFTuzPQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=wwCWOh).
 
 
